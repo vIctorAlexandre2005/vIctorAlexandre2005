@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é Victor Alexandre da Silva Marins e sou um desenvolvedor front-end apaixonado por tecnologia. Minha experiência é focada em diversas tecnologias, como: NextJS, ReactJS, JS, entre outros.</p>
+<p align="left">Olá, meu nome é Victor Alexandre da Silva Marins e sou um desenvolvedor front-end apaixonado por tecnologia. Minha experiência é focada em diversas tecnologias, como: NextJS, ReactJS, JS, Chakra UI, Rest API, Context API, ChartJS, PWA, entre outros.</p>
 
 ###
 
