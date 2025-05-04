@@ -6,7 +6,7 @@
 
 <h1 align="center">Victor Alexandre</h1>
 
-<p align="center">💻 Desenvolvedor Fullstack | React.js • Next.js • Java • Spring Boot</p>
+<p align="center">💻 Desenvolvedor Fullstack | React.js • Next.js • Java • Spring Boot • MySQL • Firebase</p>
 
 ---
 
