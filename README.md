@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou desenvolvedor fullstack com mais de 2 anos de experiência em projetos front-end e back-end. Tenho domínio em interfaces modernas com **React.js** e **Next.js**, e construção de APIs robustas utilizando **Java** e **Spring Boot**.
+Sou desenvolvedor fullstack com 4 anos de experiência em projetos front-end e back-end. Tenho domínio em interfaces modernas com **React.js** e **Next.js**, e construção de APIs robustas utilizando **Java** e **Spring Boot**.
 
 Possuo conhecimentos sólidos em:
 - Segurança de aplicações web
